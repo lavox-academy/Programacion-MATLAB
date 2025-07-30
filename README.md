@@ -1,6 +1,6 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=aisacc/Programacion-MATLAB) [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/170386-matlab-para-ingenierias)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=lavox-studio/Programacion-MATLAB) [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/170386-matlab-para-ingenierias)
 
-# [MATLAB para Ingenierías](https://youtu.be/DXulUfpX10s)
+# [MATLAB para Ingenierías y Ciencias](https://www.udemy.com/course/matlab-para-ingenierias-y-ciencias/?referralCode=085356796C9ADA485B92)
 
 ## Requisitos previos
 - Ninguno. Se explica todo desde cero.
@@ -8,10 +8,9 @@
 ## Material audiovisual
 Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://www.udemy.com/course/matlab-para-ingenierias-y-ciencias/?referralCode=085356796C9ADA485B92).
 
-## Comunidad de Technica
-Este curso cuenta con una comunidad de Discord en donde puedes interactuar con otros estudiantes y participar de eventos, además de muchas más cosas de tu interés.
+## Comunidad **La Academia**
+Este curso cuenta con una comunidad de Discord en donde puedes interactuar con otros estudiantes y participar de eventos, además de muchas más actividades y recursos de tu interés.
 - Invitación a la comunidad: [da clic aquí para acceder a la comunidad](https://discord.gg/V6MedeXDkA).
-- Cómo navegar en la comunidad: [da clic aquí ver un vídeo de cómo navegar en la comunidad](https://youtu.be/ZeO775TfoYk).
 
 ## Temas
 **Tema 00.** Introducción al Live Editor
@@ -62,6 +61,14 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 - MathWorks. (2023). *Documentation - MATLAB & Simulink*. https://www.mathworks.com/help/index.html
 - Moore, H. (2007, 1 enero). *MATLAB para ingenieros* (1ra ed.). Pearson Educación.
 
-## Social media
-- Instagram: [Isacc](https://www.instagram.com/aisacc.me/)
-- LinkedIn: [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
+## Social media de **La Academia**
+- Facebook: [La Academia](https://www.facebook.com/lavox.studio/)
+- Instagram: [La Academia | LAVOX Studio](https://www.instagram.com/lavox.studio)
+- YouTube: [La Academia | LAVOX Studio](https://www.youtube.com/@lavox.studio)
+- LinkedIn: [La Academia | LAVOX Studio](https://www.linkedin.com/company/lavox-studio/)
+- TikTok: [La Academia | LAVOX Studio](https://www.tiktok.com/@lavox.studio)
+
+## Comunidades de **La Academia**
+- Discord: [La Academia](https://discord.gg/3ugWRD2bgH)
+- Canal de WhatsApp: [La Academia | LAVOX Studio](https://whatsapp.com/channel/0029Vb5xeFl3LdQRX13TNN1R)
+- Contacto de WhatsApp: [La Academia | +593 96 395 3992](http://wa.me/593963953992)
