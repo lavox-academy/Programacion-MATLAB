@@ -62,11 +62,11 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 - Moore, H. (2007, 1 enero). *MATLAB para ingenieros* (1ra ed.). Pearson Educación.
 
 ## Social media de **La Academia**
-- Facebook: [La Academia](https://www.facebook.com/lavox.studio/)
-- Instagram: [La Academia | LAVOX Studio](https://www.instagram.com/lavox.studio)
-- YouTube: [La Academia | LAVOX Studio](https://www.youtube.com/@lavox.studio)
-- LinkedIn: [La Academia | LAVOX Studio](https://www.linkedin.com/company/lavox-studio/)
-- TikTok: [La Academia | LAVOX Studio](https://www.tiktok.com/@lavox.studio)
+- Facebook: [LAVOX Academy](https://www.facebook.com/lavox.academy/)
+- Instagram: [LAVOX Academy](https://www.instagram.com/lavox.academy)
+- YouTube: [LAVOX Academy](https://www.youtube.com/@lavox.academy)
+- LinkedIn: [LAVOX Academy](https://www.linkedin.com/company/lavox-academy/)
+- TikTok: [LAVOX Academy](https://www.tiktok.com/@lavox.academy)
 
 ## Comunidades de **La Academia**
 - Discord: [La Academia](https://discord.gg/3ugWRD2bgH)
