@@ -15,23 +15,23 @@ Este curso cuenta con una comunidad de Discord en donde puedes interactuar con o
 ## Temas
 **Tema 00.** Introducción al Live Editor
 
-**Tema 01.** Conceptos generales
+**Tema 1.** Conceptos generales
 
-**Tema 02.** Tipos de datos: Números
+**Tema 2.** Tipos de datos: Números
 
-**Tema 03.** Estructuras de datos: Matrices
+**Tema 3.** Estructuras de datos: Matrices
 
-**Tema 04.** Tipos de datos: Caracteres y cadenas
+**Tema 4.** Tipos de datos: Caracteres y cadenas
 
-**Tema 05.** Tipos de datos: Valores lógicos
+**Tema 5.** Tipos de datos: Valores lógicos
 
-**Tema 06.** Ingreso de datos por el usuario y visualización personalizada
+**Tema 6.** Ingreso de datos por el usuario y visualización personalizada
 
-**Tema 07.** Ayuda y documentación de MATLAB
+**Tema 7.** Ayuda y documentación de MATLAB
 
-**Tema 08.** Funciones internas
+**Tema 8.** Funciones internas
 
-**Tema 09.** Funciones matemáticas
+**Tema 9.** Funciones matemáticas
 
 **Tema 10.** Operaciones arreglo (elemento a elemento)
 
