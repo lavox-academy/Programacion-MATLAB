@@ -8,7 +8,7 @@
 ## Material audiovisual
 Para acceder al material audiovisual desarrollado para este curso haz [clic aquí](https://www.udemy.com/course/matlab-para-ingenierias-y-ciencias/?referralCode=085356796C9ADA485B92).
 
-## Comunidad **La Academia**
+## Comunidad **LAVOX Academy**
 Este curso cuenta con una comunidad de Discord en donde puedes interactuar con otros estudiantes y participar de eventos, además de muchas más actividades y recursos de tu interés.
 - Invitación a la comunidad: [da clic aquí para acceder a la comunidad](https://discord.gg/V6MedeXDkA).
 
